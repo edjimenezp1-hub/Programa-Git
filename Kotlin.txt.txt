@@ -2,3 +2,6 @@ Edgar Duvan Jimenez Palechor
 correo: Edgarduvanjimenez@gmail.com
 Departamento: Cauca
 Ciudad: Popayán
+Formación: Normalista Superior 
+Pregrado: Ingeniero en sistemas
+Especialidad: Especialista en TICS
